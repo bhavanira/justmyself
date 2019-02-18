@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>W3 School CSS</title>
+	<title>School CSS</title>
 <style>
 body{
 	background-image:url(rose.jpeg),url(background.jpg);
